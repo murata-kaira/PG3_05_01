@@ -3,7 +3,6 @@
 #include "Vector2.h"
 
 
-
 //ƒvƒŒƒCƒ„[
 class Player {
 
